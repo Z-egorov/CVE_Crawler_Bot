@@ -3,6 +3,8 @@ CVE Crawler telegram bot. He will help you with CVE's
 
 Documentation ( RU )
 
+Видео-демонстрация работы - https://youtube.com/shorts/cc6DfjQa8Jo?feature=share
+
 Документация к Telagram боту “CVE Crawler Bot from EDA Team”.
 1. Эксплуатация продукта:
 Для начала работы необходимо написать команду /start, затем бот отправит
